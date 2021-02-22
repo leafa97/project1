@@ -1,5 +1,5 @@
 # project1
-Horiseon page 
-#Search engine optimization
-#online reputation management
-#social media marketing
+The Horiseon web page takes you to three sections:
+Search engine optimization
+online reputation management
+social media marketing

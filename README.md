@@ -1,3 +1,5 @@
 # project1
 Horiseon page 
-Refreacted code
+#Search engine optimization
+#online reputation management
+#social media marketing
